@@ -6,15 +6,14 @@
 
 ---
 
-### 🎓 Student Information
-- **Full Name:** John Doe  
-- **Year & Section:** BSIT 3A  
+### MY INFO
+- **Full Name:** Ravin Eduard C. Aguelo 
+- **Year & Section:** BSIT 3-5  
 - **Age:** 20  
-- **Student ID:** 2025-12345  
+- **Student ID:** 202406195  
 
 ---
 
-### 📌 Connect with Me
 <p>
   <a href="https://github.com/your-username" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
