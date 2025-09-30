@@ -1,11 +1,9 @@
 ---
-
 ### MY INFO
 - **Full Name:** Ravin Eduard C. Aguelo 
 - **Year & Section:** BSIT 3-5  
 - **Age:** 20  
 - **Student ID:** 202406195  
-
 ---
 
 <p>
