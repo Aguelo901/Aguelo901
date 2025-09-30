@@ -1,9 +1,3 @@
-<h1 align="center">👋 Hello, I'm John Doe</h1>
-
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="Profile Icon" width="100"/>
-</p>
-
 ---
 
 ### MY INFO
